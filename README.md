@@ -1,2 +1,2 @@
-# Pre-Bootcamp-P-blico
-Pre-Bootcamp Público
+# Pre-Bootcamp-Publico
+Pre-Bootcamp Publico
